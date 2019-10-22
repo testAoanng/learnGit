@@ -36,3 +36,6 @@ git remote
 
 git remote -v
 
+##7. 合并分支（将分支a合并到当前分支）
+git merge a
+
